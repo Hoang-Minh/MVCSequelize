@@ -1,0 +1,13 @@
+{
+  "name": "MVCSequelize",
+  "version": "1.0.0",
+  "description": "A boilerplate project that sets up file structure and quick server\r set-up for an express app using handlebars.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
